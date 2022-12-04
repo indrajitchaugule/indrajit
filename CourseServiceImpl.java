@@ -16,7 +16,7 @@ public class CourseServiceImpl implements CoursesService {
 	{
 		list= new ArrayList<>();
 		list.add(new Course(145,"java core Courses","This courses contain basic of java "));
-		list.add(new Course(451,"Spring boot course","Creating rest api using spring boot"));
+		list.add(new Course(451,"Spriiiiing boot course","Creating rest api using spring boot"));
 	}
 
 	@Override
